@@ -150,14 +150,6 @@
     默认的是国外的，下载奇慢无比，推荐使用自己搭建sonatype nexus中央仓库 -->
     <repositories>
         <repository>
-            <id>public</id>
-            <name>public</name>
-            <url>http://172.18.100.83:8081/nexus/content/groups/public/</url>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-        </repository>
-        <repository>
             <id>central</id>
             <name>Central Repository</name>
             <url>http://repo1.maven.org/maven2/</url>
