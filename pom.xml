@@ -6,7 +6,7 @@
 
     <groupId>com.aitongyi.web</groupId>
     <artifactId>web</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>WEB-PROJECT-TEST</version>
 
     <!-- 将项目定义为公共项目 -->
     <packaging>pom</packaging>
